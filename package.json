@@ -1,0 +1,22 @@
+{
+  "name": "troober",
+  "version": "1.0.0",
+  "description": "mobile platform for trucking services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrivyGambit/troober.git"
+  },
+  "keywords": [
+    "troober"
+  ],
+  "author": "Sheenan Tenepre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrivyGambit/troober/issues"
+  },
+  "homepage": "https://github.com/PrivyGambit/troober#readme"
+}
